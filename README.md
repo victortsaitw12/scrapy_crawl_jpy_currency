@@ -1,4 +1,4 @@
-install docker
-run dokcer-compose up
-docker exec -it crawler_container_id bash
-python routine.py
+install docker <br />
+run dokcer-compose up <br />
+docker exec -it crawler_container_id bash <br />
+python routine.py <br />
